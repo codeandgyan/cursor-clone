@@ -4,7 +4,9 @@
 This repository contains the backend code for a Cursor IDE clone, built using NodeJS and Google Gemini. It leverages the concept of AI Agents to provide intelligent code assistance and features.' 
 
 ## Technologies Used
-*   NodeJS: The runtime environment for the backend.n*   Google Gemini: Used for AI-powered code completion and suggestions.n*   AI Agents: Core concept for intelligent code interaction and automation.' 
+*   NodeJS: The runtime environment for the backend.
+*   Google Gemini: Used for AI-powered code completion and suggestions.
+*   AI Agents: Core concept for intelligent code interaction and automation.' 
 
 ## Getting Started
 1. Clone the repository
